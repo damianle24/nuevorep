@@ -1,0 +1,1 @@
+let numero =pront ("ingrese su antiguedad")
